@@ -17,7 +17,7 @@ The Smart Email Assistant uses intelligent language models to generate context-a
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript, React.js
 
 Backend: Java (Spring Boot or custom server)
 
